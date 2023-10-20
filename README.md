@@ -1,5 +1,5 @@
-# snake
 <a name="readme-top"></a>
+# snake
 
 <!-- TABLE OF CONTENTS -->
 <details>
