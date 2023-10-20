@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a snake in python, with SOLO mode and DUO in local.
+This project is a snake in python, with SOLO mode and DUO in local in a 1920x1080 screen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
